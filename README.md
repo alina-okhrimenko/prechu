@@ -6,4 +6,4 @@ Prechu Website Layout
 - Body;
 - Footer;
 
-https://alina-okhrimenko.github.io/prechu/
+https://alina-okhrimenko.github.io/prechu-website-layout/
